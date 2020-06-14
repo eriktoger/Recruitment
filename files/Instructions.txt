@@ -1,0 +1,7 @@
+You have found a peculiar document named ciphered.txt and you want to decipher it!
+Luckily you overheard two people taking about the document.
+You know that it is ciphered with a XOR-cipher and that the key is a permutation / anagram of Edument ( e.q Eeunmtd or tndemuE).
+You could try all 5040 (7!) keys and manually look for the hidden message. But since you are a clever programmer
+you want to use the fact that the message is padded with scrambled english words.
+
+Good luck!
